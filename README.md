@@ -1,0 +1,1 @@
+My project involved in developing scientific calculator mobile app provides users with a powerful tool for performing complex mathematical calculations conveniently on their mobile devices, making it useful for students, professionals, engineers, scientists, and anyone in need of advanced mathematical functionality on the go.
